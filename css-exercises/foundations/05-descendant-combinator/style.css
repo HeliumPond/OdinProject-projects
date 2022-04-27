@@ -1,0 +1,7 @@
+div p {
+    font-size: large;
+    background-color: yellow;
+    color: red;
+    font: Helvetica, sans-serif;
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(255, 204, 207);
+    font: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 40px;
+}
+
+#forth {
+    font-weight: bold;
+    font-size: larger;
+    background-color: rgb(172, 255, 164);
+}
+
+p.larger {
+    font-size: larger;
+}
