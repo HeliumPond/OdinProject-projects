@@ -1,0 +1,45 @@
+* {
+    color: #444;
+    background-color: lightblue;
+    margin: 0;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    padding: 12px;
+    border-bottom: 1px solid #444;
+    background-color: rgba(255, 255, 255, 0.3)
+}
+
+button {
+    border: 2px solid lime;
+    border-radius: 4px;
+    padding: 12px;
+    font-size: 24px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container .vertical {
+    flex-direction: vertical;
+}
+
+#main {
+    padding: 32px;
+}
+
+.tile {
+    background-color: white;
+    transition: all 0.5s ease;
+}
+
+#grid {
+    margin: 32px;
+    border: solid #444;
+}
